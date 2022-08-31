@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 
-[![AKCores's GitHub stats](https://github-readme-stats.vercel.app/api?username=akcore&include_all_commits=1&hide_rank=1&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![naveen pandey GitHub stats](https://github-readme-stats.vercel.app/api?username=akcore&include_all_commits=1&hide_rank=1&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🏆 Github Profile Trophy
 <img width=800 src="https://github-profile-trophy.vercel.app/?username=akcore&column=8&theme=juicyfresh&no-bg=true&no-frame=true"/>
