@@ -10,18 +10,26 @@
 
 <h1 align="left">about me <h1>
 
-<h3 align="left">
 ✔ Call me: naveenpandey1 or TeamWorker 😊 <br>
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reac
-✔ 🌱 I’m currently learning everything 🤣<br>
-✔ 👨‍💻 All of my projects are available at https://github.com/naveenpandey/<br>
 
-✔ 📫 How to reach me naveenpandeytechnical@gmail.com<br>
-✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
-✔ Fun fact : I Always try to learn something new and then sleep till it store in the brain 😎<br><br><br><br>
+  - 👀 I’m interested in ...
+
+  - 🌱 I’m currently learning ...
+
+  - 💞️ I’m looking to collaborate on ...
+
+  - 📫 How to reac
+
+  ✔ 🌱 I’m currently learning everything 🤣<br>
+
+  ✔ 👨‍💻 All of my projects are available at https://github.com/naveenpandey/<br>
+
+
+  ✔ 📫 How to reach me naveenpandeytechnical@gmail.com<br>
+
+  ✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
+
+  ✔ Fun fact : I Always try to learn something new and then sleep till it store in the brain 😎<br><br><br><br>
 
 
 
