@@ -7,22 +7,26 @@
 
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"><br>
-✔ Call me: Muskan Valmikee or TeamWorker 😊 <br>
 
+<h1 align="right">about me <h1>
+
+
+✔ Call me: naveenpandey1 or TeamWorker 😊 <br>
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reac
 ✔ 🌱 I’m currently learning everything 🤣<br>
-✔ 👨‍💻 All of my projects are available at https://github.com/MuskanValmiki/<br>
+✔ 👨‍💻 All of my projects are available at https://github.com/naveenpandey/<br>
 
-✔ 📫 How to reach me muskan20@navgurukul.org<br>
+✔ 📫 How to reach me naveenpandeytechnical@gmail.com<br>
 ✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
 ✔ Fun fact : I Always try to learn something new and then sleep till it store in the brain 😎<br><br><br><br>
 
 
 
-- 👋 Hi, I’m @naveenpandey1
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reac
+
+
 
 
 <a href="https://youtube.com/shorts/EnYOy1CcMTw?feature=share"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
