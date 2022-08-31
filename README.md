@@ -1,4 +1,28 @@
 
+<h1>Muskan-Coder</h1>
+<p align="left"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> <img src="https://komarev.com/ghpvc/?username=MuskanValmikee&label=Profile%20views&color=0e75b6&style=flat" alt="Muskan Valmikee" /> </p>
+<p align="center">
+  <img src="github.png" height="200"/>
+</p>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+<img src="github.png" width="40px">&nbsp;About me ....
+
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
+
+✔ Call me: Muskan Valmikee or TeamWorker 😊 <br>
+
+✔ 🌱 I’m currently learning everything 🤣<br>
+✔ 👨‍💻 All of my projects are available at https://github.com/MuskanValmiki/<br>
+
+✔ 📫 How to reach me muskan20@navgurukul.org<br>
+✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
+✔ Fun fact : I Always try to learn something new and then sleep till it store in the brain 😎<br><br><br><br>
+
+
+
+
+
 <h1 align="center">Hi 👋, I'm naveen pandey</h1>
 <a href="https://youtube.com/shorts/EnYOy1CcMTw?feature=share"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <h3 align="center">A passionate frontend developer from India</h3>
