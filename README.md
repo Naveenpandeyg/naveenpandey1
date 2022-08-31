@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm naveen pandey</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
+- 👋 Hi, I’m @naveenpandey1
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reac
 
 [![naveen pandey GitHub stats](https://github-readme-stats.vercel.app/api?username=naveenpandey1&include_all_commits=1&hide_rank=1&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -16,11 +20,7 @@
 
 
 
-- 👋 Hi, I’m @naveenpandey1
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 naveenpandey1/naveenpandey1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
