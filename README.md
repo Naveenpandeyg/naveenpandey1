@@ -8,7 +8,7 @@
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"><br>
 
-<h1 align="right">about me <h1>
+<h1 align="left">about me <h1>
 
 
 ✔ Call me: naveenpandey1 or TeamWorker 😊 <br>
