@@ -1,6 +1,5 @@
 
-<p align="left"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> <img src="https://komarev.com/ghpvc/?username=MuskanValmikee&label=Profile%20views&color=0e75b6&style=flat" alt="Muskan Valmikee" /> </p>
-<p align="center">
+<p align="left"> 
   <img src="github.png" height="200"/>
 </p>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
