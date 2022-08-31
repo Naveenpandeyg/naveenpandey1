@@ -1,5 +1,4 @@
 
-<h1>Muskan-Coder</h1>
 <p align="left"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> <img src="https://komarev.com/ghpvc/?username=MuskanValmikee&label=Profile%20views&color=0e75b6&style=flat" alt="Muskan Valmikee" /> </p>
 <p align="center">
   <img src="github.png" height="200"/>
