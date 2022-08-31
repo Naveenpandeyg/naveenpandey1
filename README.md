@@ -81,10 +81,10 @@ Naveen Pandey Naveen-pandey3690" /></p>
 <a href="https://youtube.com/shorts/EnYOy1CcMTw?feature=share"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <a href="https://youtube.com/shorts/EnYOy1CcMTw?feature=share"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Naveen-pandey3690&" alt="Naveen Pandey Naveen-pandey3690" /></p>
 
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"><br>
+
+
 
 
 
