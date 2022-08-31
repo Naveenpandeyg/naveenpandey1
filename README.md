@@ -1,11 +1,16 @@
 <h1 align="center">Hi 👋, I'm naveen pandey</h1>
+<a href="https://youtube.com/shorts/EnYOy1CcMTw?feature=share"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <h3 align="center">A passionate frontend developer from India</h3>
+<a href="https://youtube.com/shorts/EnYOy1CcMTw?feature=share"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
 - 👋 Hi, I’m @naveenpandey1
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reac
 
+
+<a href="https://youtube.com/shorts/EnYOy1CcMTw?feature=share"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 [![naveen pandey GitHub stats](https://github-readme-stats.vercel.app/api?username=naveenpandey1&include_all_commits=1&hide_rank=1&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🏆 Github Profile Trophy
@@ -81,7 +86,6 @@ Naveen Pandey Naveen-pandey3690" /></p>
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"><br>
 
 <a href="https://youtube.com/shorts/EnYOy1CcMTw?feature=share"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-<p align="center"> <a href="https://github.com/Naveen-pandey3690"><img src="https://github-profile-trophy.vercel.app/?username=Naveen-pandey&theme=onedark&no-bg=true&no-frame=false&column=-1&margin-w=15" alt="aidarkezio" /></a> </p>
 
 
 
