@@ -41,10 +41,7 @@
 <a href="https://youtube.com/shorts/EnYOy1CcMTw?feature=share"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 [![naveen pandey GitHub stats](https://github-readme-stats.vercel.app/api?username=naveenpandey1&include_all_commits=1&hide_rank=1&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-### 🏆 Github Profile Trophy
-<img width=800 src="https://github-profile-trophy.vercel.app/?username=akcore&column=8&theme=juicyfresh&no-bg=true&no-frame=true"/>
 
-* * *
 
 <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=naveenpandey1&count_private=true&include_all_commits=true" />
@@ -97,6 +94,7 @@ You can click the Preview link to take a look at your changes.
 </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
 
 
+<a href="https://youtube.com/shorts/EnYOy1CcMTw?feature=share"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
 <h3 align="left">Support:</h3>
