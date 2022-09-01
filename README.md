@@ -23,7 +23,7 @@
 
   ✔ 🌱 I’m currently learning everything 🤣<br>
 
-  ✔ 👨‍💻 All of my projects are available at https://github.com/naveenpandey/<br>
+  ✔ 👨‍💻 All of my projects are available at https://github.com/naveenpandey1/<br>
 
 
   ✔ 📫 How to reach me naveenpandeytechnical@gmail.com<br>
