@@ -101,8 +101,7 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="left">Support:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Naveen-pandey3690&show_icons=true&locale=en&layout=compact" alt="
-NaveenPandey1 /></p>
+
 
 <p><a href="https://www.buymeacoffee.com/simplified"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="simplified learner" /></a></p><br><br>
 
