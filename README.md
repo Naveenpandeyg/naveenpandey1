@@ -13,13 +13,9 @@
 
 ✔ Call me: naveenpandey1 or TeamWorker 😊 <br>
 
-  - 👀 I’m interested in ...
+  - 👀 I’m interested in coding and haking
 
-  - 🌱 I’m currently learning ...
-
-  - 💞️ I’m looking to collaborate on ...
-
-  - 📫 How to reac
+  - 🌱 I’m currently learning javascript 
 
   ✔ 🌱 I’m currently learning everything 🤣<br>
 
