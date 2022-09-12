@@ -13,7 +13,7 @@
 
 ✔ Call me: naveenpandey1 or TeamWorker 😊 <br>
 
-  - 👀 I’m interested in coding and haking
+  - 👀 I’m interested in coding and hacking
 
   - 🌱 I’m currently learning javascript 
 
