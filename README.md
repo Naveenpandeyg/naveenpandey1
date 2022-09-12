@@ -94,7 +94,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-[![naveen pandey GitHub stats](https://github-readme-stats.vercel.app/api?username=naveenpandey1&include_all_commits=1&hide_rank=1&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ### 🏆 Github Profile Trophy
 <img width=800 src="https://github-profile-trophy.vercel.app/?username=akcore&column=8&theme=juicyfresh&no-bg=true&no-frame=true"/>
 
