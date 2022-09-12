@@ -95,8 +95,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-### 🏆 Github Profile Trophy
-<img width=800 src="https://github-profile-trophy.vercel.app/?username=akcore&column=8&theme=juicyfresh&no-bg=true&no-frame=true"/>
+
 
 * * *
 <div>
