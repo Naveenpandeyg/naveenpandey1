@@ -90,18 +90,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://youtube.com/shorts/EnYOy1CcMTw?feature=share"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
-<h3 align="left">Support:</h3>
 
-
-
-
-
-
-* * *
-<div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=naveenpandey1&count_private=true&include_all_commits=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akcore&layout=compact" />
-</div>
 
 
 <a href="https://youtube.com/shorts/EnYOy1CcMTw?feature=share"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
